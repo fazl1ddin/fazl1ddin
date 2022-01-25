@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fazl1ddin
+- 👀 I’m interested in web programming
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on JS Developers
+- 📫 You can reach me on telegram with adress @device_uz_admin
